@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My First APP - AGM</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="third_button">About Me</string>
+    <string name="about_me_info">
+        "Howdy! I'm Anthony Moncivais. I'm a Digital Entertainment Technology and Computer Science major at Abilene Christian University"
+    </string>
+    <string name="cookie_amount"></string>
+    <string name="play_clicker">Play Cookie Clicker (Alpha)</string>
+    <string name="wynaut">Because why not?</string>
+    <string name="verse">" We can rejoice, too, when we run into problems and trials, for we know that they help us develop endurance. And endurance develops strength of character, and character strengthens our confident hope of salvation. And this hope will not lead to disappointment. For we know how dearly God loves us, because he has given us the Holy Spirit to fill our hearts with his love." Romans 5:3&#8211;5</string>
+</resources>
